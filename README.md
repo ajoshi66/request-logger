@@ -12,3 +12,4 @@ What if the developers can add the logs associated to the processing of a reques
 
 # Request Logger (Base)
 This project is the base setup of a restful web service that will be used for request logger implementation. 
+Refer to https://github.com/ajoshi66/request-logger-full for a full implementation.
